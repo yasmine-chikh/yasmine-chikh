@@ -1,5 +1,11 @@
 
 <div align="center">
+  <img src="banner.png" alt="Yasmine Chikh - Data Science & Artificial Intelligence" width="100%">
+</div>
+
+<br>
+
+<div align="center">
 
 ### ✦ WELCOME TO MY DIGITAL UNIVERSE ✦
 
