@@ -1,6 +1,6 @@
 
 <div align="center">
-  <img src="banner.png" alt="Yasmine Chikh - Data Science & Artificial Intelligence" width="100%">
+  <img src="image.png" alt="Yasmine Chikh - Data Science & Artificial Intelligence" width="100%">
 </div>
 
 <br>
