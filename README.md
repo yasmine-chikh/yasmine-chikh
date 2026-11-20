@@ -1,16 +1,21 @@
-## Hi there 👋
 
-<!--
-**yasmine-chikh/yasmine-chikh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
 
-Here are some ideas to get you started:
+### ✦ WELCOME TO MY DIGITAL UNIVERSE ✦
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Yasmine Chikh
+
+### Data Science & Artificial Intelligence
+
+---
+
+### *Where creativity meets intelligence.*
+
+Exploring the beauty of data, the power of AI,  
+and the art of turning ideas into meaningful solutions.
+
+<br>
+
+**✦ THINK · CREATE · INNOVATE ✦**
+
+</div>
